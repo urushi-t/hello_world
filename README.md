@@ -10,3 +10,4 @@
 
 ### リンクの例
 [静岡大学](URL)
+New line added by a local environment.
